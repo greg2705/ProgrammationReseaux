@@ -1,4 +1,4 @@
-Bonjour, bienvenue dans notre projet de réseau.
+Bonjour, bienvenue dans un projet de réseau réalisé en 2020.
 Pour lancer le projet , veuillez executer les commandes suivantes sur le terminal :
    - make
    - ./Dazibao NomDuDomaine NuméroDePort
